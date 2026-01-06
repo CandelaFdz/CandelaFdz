@@ -39,7 +39,7 @@ I am an advanced IT student focused on building web interfaces and ensuring soft
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angeles-candela-fernández-437960389)
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeles-candela-fernández)
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2004candefernandee@gmail.com)
   
 </div>
