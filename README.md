@@ -13,7 +13,7 @@
 <h3> <picture><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> </picture> About me</h3>
 
 
-I am a software developer focused on building functional web applications and ensuring code quality through testing (QA). I enjoy solving problems and have a strong background in networking fundamentals.
+I am an advanced IT student focused on building web interfaces and ensuring software quality through testing (QA). I enjoy solving logical problems and creating functional applications. I am expanding my knowledge in both front-end and back-end development
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and tools:
